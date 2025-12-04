@@ -49,6 +49,10 @@ body {
 
 .main-content-container {
     display: flex;
-    align-items: center;
     justify-content: space-around;
+}
+.main-heading{
+font-size: 35px;
+font-weight: bold;
+
 }
