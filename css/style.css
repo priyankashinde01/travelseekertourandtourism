@@ -5,12 +5,13 @@ body {
 }
 
 .navbar-main-container {
-    background-color: #0077B6;
-    padding: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
+     background-color: #0077B6;
+            color: white;
+            padding: 15px 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: "Times New Roman", Times, serif; 
 }
 
 .navbar-main-container:hover {
